@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">myDinero2</string>
-    <string name="hint">Introdzca cantidad de pesetas</string>
-    <string name="boton_covertir">CONVERTIR</string>
-    <string name="boton_port">PORT</string>
-    <string name="boton_dolar">CHDOLAR</string>
-    <string name="boton_libra">CHLIBRA</string>
-</resources>

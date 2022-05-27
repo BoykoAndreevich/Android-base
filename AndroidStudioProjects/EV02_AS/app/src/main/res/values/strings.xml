@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">EV02AS</string>
-    <string name="jugar">Jugar</string>
-    <string name="configurar">Configurar</string>
-    <string name="acercade">Acerca de</string>
-    <string name="salir">Salir</string>
-    <string name="tituloaplicacion">EV02AS</string>
-    <string name="puntuaciones">Puntuaciones</string>
-</resources>
