@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloThere2</string>
+    <string name="texto1_textview">Hello there!</string>
+    <string name="texto2_textview">Bye!</string>
+    <string name="texto_boton">GREETINGS</string>
+    <string name="hint_hi">Hello</string>
+    <string name="hint_bye">Bye</string>
+</resources>

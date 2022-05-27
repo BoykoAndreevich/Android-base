@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/bGrabar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="grabar"
+        android:text="Grabar" />
+
+    <Button
+        android:id="@+id/bDetener"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="detenerGrabacion"
+        android:text="Detener Grabacion" />
+
+    <Button
+        android:id="@+id/bReproducir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="reproducir"
+        android:text="Reproducir" />
+</LinearLayout>
